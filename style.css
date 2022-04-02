@@ -1,0 +1,32 @@
+.genderize {
+  width: 300px;
+  height: 100px;
+  margin: 100px auto;
+}
+
+.text {
+  text-align: center;
+  font-size: 32px;
+  font-family: 'League Spartan', sans-serif;
+}
+
+.nameInput {
+  width: 160px;
+  height: 40px;
+  outline: none;
+  font-family: 'League Spartan', sans-serif;
+  font-size: 20px;
+}
+
+.getGender {
+  cursor: pointer;
+  height: 46px;
+  font-family: 'League Spartan', sans-serif;
+  font-size: 20px;
+}
+
+.resGender {
+  text-align: center;
+  font-size: 32px;
+  font-family: 'League Spartan', sans-serif;
+}
